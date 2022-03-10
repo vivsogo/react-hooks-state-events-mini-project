@@ -9,7 +9,7 @@ export const TASKS = [
     text: "Save a tenner",
     category: "Money",
   },
-  {
+  { 
     text: "Build a todo app",
     category: "Code",
   },
